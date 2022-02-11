@@ -28,9 +28,9 @@ export default function Hero() {
       <Grid container spacing={0}>
         <Grid item xs={5}>
           <Paper style={{ height: "50vh" }} className={classes.paper}>
-            <h1>xs=12</h1>
+        
             <div className="div1">
-              <h1> WELCOME</h1><span><h1>To Wendys, for on ground dining and deliveries in Nairobi city</h1></span>
+              <h1> WELCOME</h1><span><h2>For on ground dining and deliveries in Nairobi city</h2></span>
             </div>
           </Paper>
         </Grid>
